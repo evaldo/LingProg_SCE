@@ -1,0 +1,10 @@
+C:\Docs Evaldo_Note HP\Universo\Linguagem de Programação VI\AplicacoesExemplo\Conexao\SCE\SCE\bin\Debug\SCE.exe
+C:\Docs Evaldo_Note HP\Universo\Linguagem de Programação VI\AplicacoesExemplo\Conexao\SCE\SCE\bin\Debug\SCE.pdb
+C:\Docs Evaldo_Note HP\Universo\Linguagem de Programação VI\AplicacoesExemplo\Conexao\SCE\SCE\bin\Debug\SCE.xml
+C:\Docs Evaldo_Note HP\Universo\Linguagem de Programação VI\AplicacoesExemplo\Conexao\SCE\SCE\obj\Debug\ResolveAssemblyReference.cache
+C:\Docs Evaldo_Note HP\Universo\Linguagem de Programação VI\AplicacoesExemplo\Conexao\SCE\SCE\obj\Debug\SCE.Resources.resources
+C:\Docs Evaldo_Note HP\Universo\Linguagem de Programação VI\AplicacoesExemplo\Conexao\SCE\SCE\obj\Debug\SCE.vbproj.GenerateResource.Cache
+C:\Docs Evaldo_Note HP\Universo\Linguagem de Programação VI\AplicacoesExemplo\Conexao\SCE\SCE\obj\Debug\SCE.exe
+C:\Docs Evaldo_Note HP\Universo\Linguagem de Programação VI\AplicacoesExemplo\Conexao\SCE\SCE\obj\Debug\SCE.xml
+C:\Docs Evaldo_Note HP\Universo\Linguagem de Programação VI\AplicacoesExemplo\Conexao\SCE\SCE\obj\Debug\SCE.pdb
+C:\Docs Evaldo_Note HP\Universo\Linguagem de Programação VI\AplicacoesExemplo\Conexao\SCE\SCE\obj\Debug\SCE.frmSCE.resources
