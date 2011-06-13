@@ -1,15 +1,43 @@
 ﻿Imports System.Data
 Imports System.Data.Odbc
 Imports System.Data.SqlClient
+Imports System.Xml
 
 Namespace DalSce
 
     Public Class Dal
 
+        Private User As String
+        Private Password As String
+
         Private strConn As String = _
                      "Dsn=OracleXE;" & _
-                     "Uid=system;" & _
-                     "Pwd=1234"
+                     "Uid=" & getUser() & ";" & _
+                     "Pwd=" & getPassword() & ""
+
+        Public Sub setUser(ByVal prmUser As String)
+            If lerConfigLoginUser() = "" Then
+                User = prmUser
+            Else
+                Me.User = lerConfigLoginUser()
+            End If
+        End Sub
+
+        Public Function getUser() As String
+            Return lerConfigLoginUser()
+        End Function
+
+        Public Sub setPassword(ByVal prmPassword As String)
+            If lerConfigLoginPassword() = "" Then
+                Password = prmPassword
+            Else
+                Me.Password = lerConfigLoginPassword()
+            End If
+        End Sub
+
+        Public Function getPassword() As String
+            Return lerConfigLoginPassword()
+        End Function
 
         Private Function openConexao() As Odbc.OdbcConnection
             Dim cn As Odbc.OdbcConnection
@@ -86,6 +114,67 @@ Namespace DalSce
             Finally
                 closeConexao(cn)
             End Try
+        End Function
+
+        Public Sub configLogin(ByVal prmUser As String, ByVal prmPassword As String)
+
+            Try
+                Dim refXML As Object = Nothing
+
+                'Define documento arquivo XML
+                Dim xmldocumento As XmlDocument = New XmlDocument
+                xmldocumento.LoadXml("<login></login>")
+
+                'Define o raiz
+                Dim root As XmlNode = xmldocumento.DocumentElement
+
+                'Define o elementUser
+                Dim elementUser As XmlElement = xmldocumento.CreateElement("user")
+                elementUser.InnerText = prmUser
+                root.AppendChild(elementUser)
+
+                'Define o elementPassword
+                Dim elementPass As XmlElement = xmldocumento.CreateElement("password")
+                elementPass.InnerText = prmPassword
+                root.AppendChild(elementPass)
+
+                'salva o arquivo XML
+                xmldocumento.Save("configLogin.xml")
+
+            Catch ex As Exception
+                MessageBox.Show(ex.ToString)
+            End Try
+
+        End Sub
+
+        Public Function lerConfigLoginUser() As String
+
+            Try
+
+                Dim xmldocumento As New XmlDocument()
+                xmldocumento.Load("configLogin.xml")
+
+                Return xmldocumento.SelectSingleNode("login").ChildNodes(0).InnerText
+
+            Catch ex As Exception
+                Return ""
+            End Try
+
+        End Function
+
+        Public Function lerConfigLoginPassword() As String
+
+            Try
+
+                Dim xmldocumento As New XmlDocument()
+                xmldocumento.Load("configLogin.xml")
+
+                Return xmldocumento.SelectSingleNode("login").ChildNodes(1).InnerText
+
+            Catch ex As Exception
+                Return ""
+            End Try
+
         End Function
 
     End Class

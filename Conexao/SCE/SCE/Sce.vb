@@ -7,7 +7,7 @@ Public Class frmSCE
     End Sub
 
     Private Sub btnSair_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles btnSair.Click
-        Close()
+        Me.Close()
     End Sub
 
     Private Sub grdCliente_Click(ByVal sender As Object, ByVal e As System.EventArgs) Handles grdCliente.Click

@@ -8,3 +8,5 @@ C:\Docs Evaldo_Note HP\Universo\Linguagem de Programação VI\AplicacoesExemplo\
 C:\Docs Evaldo_Note HP\Universo\Linguagem de Programação VI\AplicacoesExemplo\Conexao\SCE\SCE\obj\Debug\SCE.xml
 C:\Docs Evaldo_Note HP\Universo\Linguagem de Programação VI\AplicacoesExemplo\Conexao\SCE\SCE\obj\Debug\SCE.pdb
 C:\Docs Evaldo_Note HP\Universo\Linguagem de Programação VI\AplicacoesExemplo\Conexao\SCE\SCE\obj\Debug\SCE.frmSCE.resources
+C:\Docs Evaldo_Note HP\Universo\Linguagem de Programação VI\AplicacoesExemplo\Conexao\SCE\SCE\obj\Debug\SCE.SplashScreen.resources
+C:\Docs Evaldo_Note HP\Universo\Linguagem de Programação VI\AplicacoesExemplo\Conexao\SCE\SCE\obj\Debug\SCE.frmLogin.resources

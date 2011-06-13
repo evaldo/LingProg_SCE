@@ -219,6 +219,7 @@ Partial Class frmSCE
         Me.Controls.Add(Me.btnConsultar)
         Me.Controls.Add(Me.grdCliente)
         Me.Name = "frmSCE"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Consulta Cliente"
         CType(Me.grdCliente, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
