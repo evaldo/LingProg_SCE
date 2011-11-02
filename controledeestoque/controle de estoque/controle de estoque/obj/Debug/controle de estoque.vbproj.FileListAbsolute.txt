@@ -1,0 +1,43 @@
+C:\TEMP\controledeestoque\controle de estoque\controle de estoque\obj\Debug\ResolveAssemblyReference.cache
+C:\TEMP\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.FrmFornecedor.resources
+C:\TEMP\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.FrmFuncionario.resources
+C:\TEMP\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.FrmProduto.resources
+C:\TEMP\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.Frm_Mov_Entrada.resources
+C:\TEMP\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.Fmr_Mov_saida.resources
+C:\TEMP\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.MDIPrincipal.resources
+C:\TEMP\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.Resources.resources
+C:\TEMP\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.SplashScreen1.resources
+C:\TEMP\controledeestoque\controle de estoque\controle de estoque\obj\Debug\controle de estoque.vbproj.GenerateResource.Cache
+C:\Users\KARLOS\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KARLOS\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.FrmFornecedor.resources
+C:\Users\KARLOS\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.FrmFuncionario.resources
+C:\Users\KARLOS\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.FrmProduto.resources
+C:\Users\KARLOS\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.Frm_Mov_Entrada.resources
+C:\Users\KARLOS\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.MDIPrincipal.resources
+C:\Users\KARLOS\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.Resources.resources
+C:\Users\KARLOS\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.SplashScreen1.resources
+C:\Users\KARLOS\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\KARLOS\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\KARLOS\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.Frm_Mov_saida.resources
+C:\Users\KARLOS\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\bin\Debug\controle de estoque.exe
+C:\Users\KARLOS\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\bin\Debug\controle de estoque.pdb
+C:\Users\KARLOS\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\bin\Debug\controle de estoque.xml
+C:\Users\KARLOS\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\controle de estoque.exe
+C:\Users\KARLOS\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\controle de estoque.xml
+C:\Users\KARLOS\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\controle de estoque.pdb
+C:\Users\andrj88\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\controle de estoque.exe
+C:\Users\andrj88\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\controle de estoque.xml
+C:\Users\andrj88\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\controle de estoque.pdb
+C:\Users\andrj88\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\bin\Debug\controle de estoque.exe
+C:\Users\andrj88\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\bin\Debug\controle de estoque.pdb
+C:\Users\andrj88\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\bin\Debug\controle de estoque.xml
+C:\Users\andrj88\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\andrj88\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.FrmFornecedor.resources
+C:\Users\andrj88\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.FrmFuncionario.resources
+C:\Users\andrj88\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.FrmProduto.resources
+C:\Users\andrj88\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.Frm_Mov_Entrada.resources
+C:\Users\andrj88\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.Frm_Mov_saida.resources
+C:\Users\andrj88\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.MDIPrincipal.resources
+C:\Users\andrj88\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.Resources.resources
+C:\Users\andrj88\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\estoque.SplashScreen1.resources
+C:\Users\andrj88\Desktop\controledeestoque\controledeestoque\controle de estoque\controle de estoque\obj\Debug\controle de estoque.vbproj.GenerateResource.Cache
