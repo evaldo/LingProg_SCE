@@ -61,3 +61,19 @@ C:\Documents and Settings\cpd\Desktop\SCE em 31-10-2011\SCE\SCE\SCE\obj\Debug\SC
 C:\Documents and Settings\cpd\Desktop\SCE em 31-10-2011\SCE\SCE\SCE\obj\Debug\SCE.frmProduto.resources
 C:\Documents and Settings\cpd\Desktop\SCE em 31-10-2011\SCE\SCE\SCE\obj\Debug\SCE.frmSaida.resources
 C:\Documents and Settings\cpd\Desktop\SCE em 31-10-2011\SCE\SCE\SCE\obj\Debug\SCE.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE\obj\Debug\SCE.exe
+C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE\obj\Debug\SCE.xml
+C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE\obj\Debug\SCE.pdb
+C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE\bin\Debug\SCE.exe
+C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE\bin\Debug\SCE.pdb
+C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE\bin\Debug\SCE.xml
+C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE\obj\Debug\SCE.frmFornecedor.resources
+C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE\obj\Debug\SCE.frmFuncionario.resources
+C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE\obj\Debug\SCE.frmLogin.resources
+C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE\obj\Debug\SCE.frmMDI.resources
+C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE\obj\Debug\SCE.Resources.resources
+C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE\obj\Debug\SCE.frmProduto.resources
+C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE\obj\Debug\SCE.frmSaida.resources
+C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE\obj\Debug\GenerateResource.write.1.tlog

@@ -12,8 +12,8 @@ Namespace DalSce
 
         Private strConn As String = _
                      "Dsn=OracleXE;" & _
-                     "Uid=" & getUser() & ";" & _
-                     "Pwd=" & getPassword() & ""
+                     "Uid=system;" & _
+                     "Pwd=123456"
 
         Public Sub setUser(ByVal prmUser As String)
             If lerConfigLoginUser() = "" Then

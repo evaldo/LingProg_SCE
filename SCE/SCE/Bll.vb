@@ -319,7 +319,7 @@ Namespace BllSce
             sql = sql + " '" & ValorCusto & "',"
             sql = sql + " '" & ValorVenda & "',"
             sql = sql + " '" & QuantidadeMinima & "',"
-            sql = sql + " '" & CodigoProduto & "',);"
+            sql = sql + " '" & CodigoProduto & "');"
             'sql = sql + " '" & CargoFuncionario & "',;"
             'sql = sql + " TO_NUMBER('" & ValorSalario & "', 'FM99990.00'));"
 

@@ -35,12 +35,14 @@ Public Class frmFornecedor
 
         ds = Bll.pesquisaFornecedoresId(txtCodigo.Text)
 
+        grdFornecedores.RowCount = ds.Tables(0).Rows.Count
+
         For i As Integer = 0 To ds.Tables(0).Rows.Count - 1
-            ds.Tables(0).Rows.Item(i).Item("CD_FORNECEDOR").ToString()
-            ds.Tables(0).Rows.Item(i).Item("NM_FORNECEDOR").ToString()
-            ds.Tables(0).Rows.Item(i).Item("DS_ENDERECO").ToString()
-            ds.Tables(0).Rows.Item(i).Item("DS_BAIRRO").ToString()
-            ds.Tables(0).Rows.Item(i).Item("DS_CONTATO").ToString()
+            grdFornecedores.Item(0, i).Value = ds.Tables(0).Rows.Item(i).Item("CD_FORNECEDOR").ToString()
+            grdFornecedores.Item(1, i).Value = ds.Tables(0).Rows.Item(i).Item("NM_FORNECEDOR").ToString()
+            grdFornecedores.Item(2, i).Value = ds.Tables(0).Rows.Item(i).Item("DS_ENDERECO").ToString()
+            grdFornecedores.Item(3, i).Value = ds.Tables(0).Rows.Item(i).Item("DS_BAIRRO").ToString()
+            grdFornecedores.Item(4, i).Value = ds.Tables(0).Rows.Item(i).Item("DS_CONTATO").ToString()
 
         Next i
 

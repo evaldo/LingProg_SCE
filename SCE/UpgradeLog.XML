@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SCE">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Leonardo\Meus documentos\SCE\SCE.suo">
+</Property><Property Name="Date" Value="quarta-feira, 2 de novembro de 2011">
+</Property><Property Name="Time" Value="23:22">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SCE.sln" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SCE.suo" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE.suo">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\SCE.vbproj" Description="Project file successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\SCE.vbproj">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\SCE.vbproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\SCE.vbproj.user">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\Bll.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\Bll.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\Dal.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\Dal.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\Fornecedor.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\Fornecedor.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\Fornecedor.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\Fornecedor.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\Funcionario.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\Funcionario.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\Funcionario.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\Funcionario.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\Login.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\Login.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\Login.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\Login.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\MDI.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\MDI.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\MDI.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\MDI.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\My Project\AssemblyInfo.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\My Project\Application.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\My Project\Resources.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\My Project\Settings.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\Produto.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\Produto.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\Produto.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\Produto.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\Saida.Designer.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\Saida.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\Saida.vb" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\Saida.vb">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\My Project\Application.myapp" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\My Project\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\Fornecedor.resx" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\Fornecedor.resx">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\Funcionario.resx" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\Funcionario.resx">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\Login.resx" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\Login.resx">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\MDI.resx" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\MDI.resx">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\My Project\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\Produto.resx" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\Produto.resx">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\Saida.resx" Description="File successfully backed up as C:\Documents and Settings\Leonardo\Meus documentos\SCE\Backup\SCE\Saida.resx">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\SCE.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SCE" Source="SCE\SCE.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SCE.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SCE.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SCE" Source="SCE\SCE.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
