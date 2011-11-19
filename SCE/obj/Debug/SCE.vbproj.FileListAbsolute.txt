@@ -1,0 +1,134 @@
+C:\Users\Marcelo\Desktop\SCE\SCE\SCE\bin\Debug\SCE.exe
+C:\Users\Marcelo\Desktop\SCE\SCE\SCE\bin\Debug\SCE.pdb
+C:\Users\Marcelo\Desktop\SCE\SCE\SCE\bin\Debug\SCE.xml
+C:\Users\Marcelo\Desktop\SCE\SCE\SCE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\SCE\SCE\SCE\obj\Debug\SCE.Entrada.resources
+C:\Users\Marcelo\Desktop\SCE\SCE\SCE\obj\Debug\SCE.frmFornecedor.resources
+C:\Users\Marcelo\Desktop\SCE\SCE\SCE\obj\Debug\SCE.frmFuncionario.resources
+C:\Users\Marcelo\Desktop\SCE\SCE\SCE\obj\Debug\SCE.frmLogin.resources
+C:\Users\Marcelo\Desktop\SCE\SCE\SCE\obj\Debug\SCE.frmMDI.resources
+C:\Users\Marcelo\Desktop\SCE\SCE\SCE\obj\Debug\SCE.Resources.resources
+C:\Users\Marcelo\Desktop\SCE\SCE\SCE\obj\Debug\SCE.Produto.resources
+C:\Users\Marcelo\Desktop\SCE\SCE\SCE\obj\Debug\SCE.Saida.resources
+C:\Users\Marcelo\Desktop\SCE\SCE\SCE\obj\Debug\SCE.vbproj.GenerateResource.Cache
+C:\Users\Marcelo\Desktop\SCE\SCE\SCE\obj\Debug\SCE.exe
+C:\Users\Marcelo\Desktop\SCE\SCE\SCE\obj\Debug\SCE.xml
+C:\Users\Marcelo\Desktop\SCE\SCE\SCE\obj\Debug\SCE.pdb
+C:\Documents and Settings\cpd\Desktop\AplicacoesExemplo\SCE\SCE\SCE\obj\Debug\SCE.exe
+C:\Documents and Settings\cpd\Desktop\AplicacoesExemplo\SCE\SCE\SCE\obj\Debug\SCE.xml
+C:\Documents and Settings\cpd\Desktop\AplicacoesExemplo\SCE\SCE\SCE\obj\Debug\SCE.pdb
+C:\Documents and Settings\cpd\Desktop\AplicacoesExemplo\SCE\SCE\SCE\bin\Debug\SCE.exe
+C:\Documents and Settings\cpd\Desktop\AplicacoesExemplo\SCE\SCE\SCE\bin\Debug\SCE.pdb
+C:\Documents and Settings\cpd\Desktop\AplicacoesExemplo\SCE\SCE\SCE\bin\Debug\SCE.xml
+C:\Documents and Settings\cpd\Desktop\AplicacoesExemplo\SCE\SCE\SCE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cpd\Desktop\AplicacoesExemplo\SCE\SCE\SCE\obj\Debug\SCE.frmEntrada.resources
+C:\Documents and Settings\cpd\Desktop\AplicacoesExemplo\SCE\SCE\SCE\obj\Debug\SCE.frmFornecedor.resources
+C:\Documents and Settings\cpd\Desktop\AplicacoesExemplo\SCE\SCE\SCE\obj\Debug\SCE.frmFuncionario.resources
+C:\Documents and Settings\cpd\Desktop\AplicacoesExemplo\SCE\SCE\SCE\obj\Debug\SCE.frmLogin.resources
+C:\Documents and Settings\cpd\Desktop\AplicacoesExemplo\SCE\SCE\SCE\obj\Debug\SCE.frmMDI.resources
+C:\Documents and Settings\cpd\Desktop\AplicacoesExemplo\SCE\SCE\SCE\obj\Debug\SCE.Resources.resources
+C:\Documents and Settings\cpd\Desktop\AplicacoesExemplo\SCE\SCE\SCE\obj\Debug\SCE.frmProduto.resources
+C:\Documents and Settings\cpd\Desktop\AplicacoesExemplo\SCE\SCE\SCE\obj\Debug\SCE.frmSaida.resources
+C:\Documents and Settings\cpd\Desktop\AplicacoesExemplo\SCE\SCE\SCE\obj\Debug\SCE.vbproj.GenerateResource.Cache
+M:\UNIVERSO\Disciplinas\LP VI\SCE em 26-10-2011\SCE\SCE\SCE\obj\Debug\SCE.exe
+M:\UNIVERSO\Disciplinas\LP VI\SCE em 26-10-2011\SCE\SCE\SCE\obj\Debug\SCE.xml
+M:\UNIVERSO\Disciplinas\LP VI\SCE em 26-10-2011\SCE\SCE\SCE\obj\Debug\SCE.pdb
+M:\UNIVERSO\Disciplinas\LP VI\SCE em 26-10-2011\SCE\SCE\SCE\bin\Debug\SCE.exe
+M:\UNIVERSO\Disciplinas\LP VI\SCE em 26-10-2011\SCE\SCE\SCE\bin\Debug\SCE.pdb
+M:\UNIVERSO\Disciplinas\LP VI\SCE em 26-10-2011\SCE\SCE\SCE\bin\Debug\SCE.xml
+M:\UNIVERSO\Disciplinas\LP VI\SCE em 26-10-2011\SCE\SCE\SCE\obj\Debug\ResolveAssemblyReference.cache
+M:\UNIVERSO\Disciplinas\LP VI\SCE em 26-10-2011\SCE\SCE\SCE\obj\Debug\SCE.frmEntrada.resources
+M:\UNIVERSO\Disciplinas\LP VI\SCE em 26-10-2011\SCE\SCE\SCE\obj\Debug\SCE.frmFornecedor.resources
+M:\UNIVERSO\Disciplinas\LP VI\SCE em 26-10-2011\SCE\SCE\SCE\obj\Debug\SCE.frmFuncionario.resources
+M:\UNIVERSO\Disciplinas\LP VI\SCE em 26-10-2011\SCE\SCE\SCE\obj\Debug\SCE.frmLogin.resources
+M:\UNIVERSO\Disciplinas\LP VI\SCE em 26-10-2011\SCE\SCE\SCE\obj\Debug\SCE.frmMDI.resources
+M:\UNIVERSO\Disciplinas\LP VI\SCE em 26-10-2011\SCE\SCE\SCE\obj\Debug\SCE.Resources.resources
+M:\UNIVERSO\Disciplinas\LP VI\SCE em 26-10-2011\SCE\SCE\SCE\obj\Debug\SCE.frmProduto.resources
+M:\UNIVERSO\Disciplinas\LP VI\SCE em 26-10-2011\SCE\SCE\SCE\obj\Debug\SCE.frmSaida.resources
+M:\UNIVERSO\Disciplinas\LP VI\SCE em 26-10-2011\SCE\SCE\SCE\obj\Debug\SCE.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE em 31-10-2011\SCE\SCE\SCE\obj\Debug\SCE.exe
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE em 31-10-2011\SCE\SCE\SCE\obj\Debug\SCE.xml
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE em 31-10-2011\SCE\SCE\SCE\obj\Debug\SCE.pdb
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE em 31-10-2011\SCE\SCE\SCE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE em 31-10-2011\SCE\SCE\SCE\obj\Debug\SCE.frmEntrada.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE em 31-10-2011\SCE\SCE\SCE\obj\Debug\SCE.frmFornecedor.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE em 31-10-2011\SCE\SCE\SCE\obj\Debug\SCE.frmFuncionario.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE em 31-10-2011\SCE\SCE\SCE\obj\Debug\SCE.frmLogin.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE em 31-10-2011\SCE\SCE\SCE\obj\Debug\SCE.Resources.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE em 31-10-2011\SCE\SCE\SCE\obj\Debug\SCE.frmProduto.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE em 31-10-2011\SCE\SCE\SCE\obj\Debug\SCE.frmSaida.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE em 31-10-2011\SCE\SCE\SCE\obj\Debug\SCE.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE em 31-10-2011\SCE\SCE\SCE\bin\Debug\SCE.exe
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE em 31-10-2011\SCE\SCE\SCE\bin\Debug\SCE.pdb
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE em 31-10-2011\SCE\SCE\SCE\bin\Debug\SCE.xml
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.exe
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.xml
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.pdb
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\bin\Debug\SCE.exe
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\bin\Debug\SCE.pdb
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\bin\Debug\SCE.xml
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.frmEntrada.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.frmFornecedor.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.frmFuncionario.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.frmLogin.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.Resources.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.frmProduto.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.frmSaida.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.Impressao.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.ImpressaoProdutos.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.exe
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.xml
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.pdb
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\bin\Debug\SCE.exe
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\bin\Debug\SCE.pdb
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\bin\Debug\SCE.xml
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.frmEntrada.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.frmFornecedor.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.frmFuncionario.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.Impressao.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.ImpressaoProdutos.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.frmLogin.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.Resources.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.frmProduto.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.frmSaida.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.vbproj.GenerateResource.Cache
+C:\Documents and Settings\marcelo.barbosa\Desktop\Leonardo e Marcelo - VT LP6\SCE\SCE\SCE\SCE\obj\Debug\SCE.frmMDI.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\obj\Debug\SCE.exe
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\obj\Debug\SCE.xml
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\obj\Debug\SCE.pdb
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\bin\Debug\SCE.exe
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\bin\Debug\SCE.pdb
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\bin\Debug\SCE.xml
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\obj\Debug\SCE.frmEntrada.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\obj\Debug\SCE.frmFornecedor.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\obj\Debug\SCE.frmFuncionario.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\obj\Debug\SCE.frmImpressaoFornecedor.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\obj\Debug\SCE.frmImpressaoProduto.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\obj\Debug\SCE.frmLogin.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\obj\Debug\SCE.frmMDI.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\obj\Debug\SCE.Resources.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\obj\Debug\SCE.frmProduto.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\obj\Debug\SCE.frmSaida.resources
+C:\Documents and Settings\marcelo.barbosa\Desktop\SCE_em 16-11-2011\SCE2\SCE\obj\Debug\SCE.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\obj\Debug\SCE.exe
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\obj\Debug\SCE.xml
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\obj\Debug\SCE.pdb
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\bin\Debug\SCE.exe
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\bin\Debug\SCE.pdb
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\bin\Debug\SCE.xml
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\obj\Debug\SCE.frmEntrada.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\obj\Debug\SCE.frmFornecedor.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\obj\Debug\SCE.frmFuncionario.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\obj\Debug\SCE.frmImpressaoFornecedor.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\obj\Debug\SCE.frmImpressaoProduto.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\obj\Debug\SCE.frmLogin.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\obj\Debug\SCE.frmMDI.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\obj\Debug\SCE.Resources.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\obj\Debug\SCE.frmProduto.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\obj\Debug\SCE.frmSaida.resources
+C:\Documents and Settings\Leonardo\Meus documentos\Downloads\SCE em 18-11-2011.rar\SCE\SCE\obj\Debug\SCE.vbproj.GenerateResource.Cache
